@@ -10,7 +10,8 @@ class Home extends Model
 //    use HasFactory;
     protected $fillable = [
         'email',
-        'password'
+        'password',
+//        'image'
     ];
 }
 
